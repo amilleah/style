@@ -1,0 +1,10 @@
+beautifulsoup4>=4.12
+ipykernel>=7.2.0
+matplotlib>=3.10.8
+nltk>=3.9.4
+numpy>=2.4.4
+pandas>=3.0.2
+scipy>=1.17.1
+sentence-transformers>=5.4.1
+spacy>=3.8.14
+spacy-curated-transformers>=0.3.1
