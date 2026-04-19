@@ -2,7 +2,7 @@
 
 Writing style as characterized through PCA over linguistic features.
 
-You can find this project in action on [amilleah/com](https://amilleah.com/projects/style).
+You can find this project in action on [amilleah.com](https://amilleah.com/projects/style).
 
 ## methods
 
